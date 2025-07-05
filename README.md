@@ -3,4 +3,5 @@ Designed a user-centric Power BI dashboard for PepsiCo stakeholders using wirefr
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/54bdcd17-6ddd-4a2e-9c40-ccb9c20b51be" />
 
 <img width="623" alt="image" src="https://github.com/user-attachments/assets/89fe00fa-4903-4a1c-b931-b9b78abb9b35" />
-![ChatGPT Image Jul 5, 2025, 10_35_39 PM](https://github.com/user-attachments/assets/650a55bb-422c-4ec1-ace6-d0d5102a00a5)
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/4e3cdc13-81ac-4565-876c-e92131de22e8" />
+
